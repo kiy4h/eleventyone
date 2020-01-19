@@ -20,6 +20,7 @@ One can choose to enable holes in the maze, to make it more challenging. The maz
 ## How it works
 
 You have to control the character to reach the finish by dragging your mouse or by pressing the arrow keys on the keyboard.
+
 When the collaboration mode is enabled, students can play together as a multiplayer:
 
 ![multiplayer](../../images/Maze-multiplayer.png)
@@ -29,7 +30,9 @@ You can see more information about the activity [here](https://github.com/godiar
 ## Benefits to learning
 
 Solving the Maze activity could improve one's problem solving skills, the player will eventually learn not to walk to a dead end to save time, to beat their classmates on the leaderboard.
+
 Solving mazes can improves one's memory. For example, by remembering which parts of the maze leads to a dead end.
+
 The controls require a hand-eye coordination, the player has to connect the control and the current situation of the game. Children who were not used to holding the mouse or pressing the keyboard will eventually get a hang of it.
 
 ## What I like about Maze
