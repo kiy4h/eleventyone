@@ -11,7 +11,7 @@ Maze is a Sugar activity, aimed at children of any age to learn by playing. The 
 
 There are an infinite levels of difficulties which the player can choose from.
 
-![hard level](../images/Maze-hard-level.png)
+![hard level](../../images/Maze-hard-level.png)
 
 One can choose to enable holes in the maze, to make it more challenging. The maze can be a multiplayer by enabling sharing.
 
