@@ -5,24 +5,24 @@ date: 2020-01-19
 
 ## What is the Maze Activity?
 
-![Maze Activity](../images/Maze-trail.png)
+![Maze Activity](./images/Maze-trail.png)
 
 Maze is a Sugar activity, aimed at children of any age to learn by playing. The goal of the game is for the player's character to reach the finish.
 
 There are an infinite levels of difficulties which the player can choose from.
 
-![hard level](../../images/Maze-hard-level.png)
+![hard level](./images/Maze-hard-level.png)
 
 One can choose to enable holes in the maze, to make it more challenging. The maze can be a multiplayer by enabling sharing.
 
-![holes](../images/Maze-with-risks.png)
+![holes](./images/Maze-with-risks.png)
 
 ## How it works
 
 You have to control the character to reach the finish by dragging your mouse or by pressing the arrow keys on the keyboard.
 When the collaboration mode is enabled, students can play together as a multiplayer:
 
-![multiplayer](../images/Maze-multiplayer.png)
+![multiplayer](./images/Maze-multiplayer.png)
 
 You can see more information about the activity [here](https://github.com/godiard/help-activity/blob/master/source/maze.rst).
 
@@ -39,7 +39,7 @@ You must be wondering, why did I choose the Maze Activity to be reviewed? I coul
 The Maze Activity is the activity I like the most (so far), because it has a simple concept and is addictive. It also has an unlimited levels of difficulties.
 My favorite part was when enabling the multiplayer mode and racing to the finish, I'm really looking forward to playing it with my siblings.
 
-![leaderboard](../images/Maze-leaderboard.png)
+![leaderboard](./images/Maze-leaderboard.png)
 
 ## Suggestions and Improvements
 
